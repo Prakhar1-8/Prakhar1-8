@@ -9,70 +9,83 @@
 
 ---
 
-## 🧠 About Me
-- 🔭 Working on **AI-based Smart Traffic & Crime Detection Systems**
+## 👨‍💻 About Me
+💡 I build **real-world AI systems**, not just ML models  
+
+- 🔭 Working on **Smart Traffic & Crime Detection Systems**
 - 🌱 Learning **React, Next.js, PyTorch, TensorFlow**
-- 💡 Passionate about **Computer Vision & Real-world AI systems**
-- 🎯 Goal: Become **AI Engineer + System Builder (Not just coder)**
+- 🧠 Exploring **Computer Vision + System Design**
+- 🎯 Goal: Become **AI Engineer + System Architect**
 
 ---
 
-## 🚀 Featured Project (MOST IMPORTANT 🔥)
+## 🚀 Featured Project (USP 🔥)
 
 ### 🚦 Smart Adaptive Traffic Management System
-- AI-based real-time traffic optimization using **YOLOv8 + OpenCV**
-- Backend: **Node.js + FastAPI microservice**
-- Frontend: **React Dashboard (Real-time analytics)**
-- Features:
-  - Vehicle detection & classification
-  - Dynamic signal timing
-  - Traffic density analysis
-  - Live alerts system
+> AI-powered real-time traffic optimization system
 
-👉 This is your **USP project — highlight it everywhere**
+⚙️ Tech Stack:
+- YOLOv8 + OpenCV (Detection Engine)
+- FastAPI (AI Microservice)
+- Node.js (Backend APIs)
+- React (Dashboard UI)
 
----
-
-## 📊 GitHub Stats (THIS MAKES PROFILE PRO)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prakhar1-8&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar1-8&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prakhar1-8&theme=tokyonight" />
-</p>
+📊 Features:
+- 🚗 Vehicle Detection & Classification  
+- 📈 Traffic Density Analysis  
+- 🚦 Dynamic Signal Optimization  
+- 🚨 Real-time Alerts System  
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Languages
-![Tech](https://skillicons.dev/icons?i=python,java,c,cpp,javascript)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
+</p>
 
 ### 🌐 Frontend
-![Tech](https://skillicons.dev/icons?i=html,css,react,nextjs)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+</p>
 
 ### ⚙️ Backend
-![Tech](https://skillicons.dev/icons?i=nodejs,express)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### 🤖 AI/ML
-![Tech](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn)
+### 🤖 AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+</p>
 
 ### 🗄 Database
-![Tech](https://skillicons.dev/icons?i=mysql,mongodb)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
 ### 🛠 Tools
-![Tech](https://skillicons.dev/icons?i=git,github,vscode,figma,postman)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
 
 ---
 
-## 🏆 Coding Profiles (ADD THIS 🔥)
+## 🏆 Achievements & Highlights
 
-- 🔹 LeetCode: https://leetcode.com/u/YOUR_ID
-- 🔹 GFG: Add your profile
-- 🔹 CodeChef: Add if available
+- 🧠 Built **AI-based Traffic Optimization System**
+- 💻 Strong in **Full Stack Development + AI Integration**
+- 📊 Focus on **Real-time Systems & Performance**
+- 🚀 Active GitHub Contributor
+
+---
+
+## 📌 Coding Profiles
+
+- 🔹 LeetCode: https://leetcode.com/u/YOUR_ID  
+- 🔹 GeeksforGeeks: Add your profile  
+- 🔹 CodeChef: Add if available  
 
 ---
 
@@ -87,4 +100,4 @@
 ---
 
 ## ⚡ Fun Fact
-> I build real-world AI systems, not just ML models 🚀
+> I don’t just write code… I build systems that solve real-world problems 🚀
