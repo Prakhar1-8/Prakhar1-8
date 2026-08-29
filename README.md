@@ -1,8 +1,6 @@
 <!-- ===================================================== -->
-<!--                    GITHUB PROFILE                     -->
+<!--                  PRAKHAR PANDEY                       -->
 <!-- ===================================================== -->
-
-<!-- ==================== BANNER ==================== -->
 
 <p align="center">
   <img
@@ -12,15 +10,13 @@
   />
 </p>
 
-<!-- ==================== TYPING INTRO ==================== -->
+<!-- ==================== TYPING ==================== -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Prakhar+Pandey;Full-Stack+%26+AI+Developer;Computer+Vision+Enthusiast;Building+Real-World+Intelligent+Systems"
-      alt="Typing SVG"
-    />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Prakhar+Pandey;Full-Stack+%26+AI+Developer;Computer+Vision+Enthusiast;Building+Real-World+Intelligent+Systems"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
@@ -59,91 +55,60 @@ I'm a Computer Science & Engineering student passionate about building
 ### 👨‍💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
 </p>
 
 ### 🌐 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
 </p>
 
 ### ⚙️ Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
 ### 🤖 AI / Machine Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="AI ML" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
 </p>
 
 ### 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 </p>
 
 ### 🔧 Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" />
 </p>
 
 ---
 
-<!-- ===================================================== -->
-<!--                  GITHUB ANALYTICS                     -->
-<!-- ===================================================== -->
+<!-- ==================== GITHUB ANALYTICS ==================== -->
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img
+    src="./profile-summary-card-output/github_dark/3-stats.svg"
+    width="48%"
+    alt="Prakhar Pandey GitHub Stats"
+  />
 
-<a href="https://github.com/Prakhar1-8">
-
-<img
-  src="https://raw.githubusercontent.com/Prakhar1-8/Prakhar1-8/main/profile-summary-card-output/github_dark/0-profile-details.svg"
-  width="98%"
-  alt="GitHub Profile Details"
-/>
-
-</a>
-
-<br>
-
-<img
-  src="https://raw.githubusercontent.com/Prakhar1-8/Prakhar1-8/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"
-  width="48%"
-  alt="Top Languages"
-/>
-
-<img
-  src="https://raw.githubusercontent.com/Prakhar1-8/Prakhar1-8/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"
-  width="48%"
-  alt="Most Commit Language"
-/>
-
-<br>
-
-<img
-  src="https://raw.githubusercontent.com/Prakhar1-8/Prakhar1-8/main/profile-summary-card-output/github_dark/3-stats.svg"
-  width="48%"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://raw.githubusercontent.com/Prakhar1-8/Prakhar1-8/main/profile-summary-card-output/github_dark/4-productive-time.svg"
-  width="48%"
-  alt="Productive Time"
-/>
-
-</div>
+  <img
+    src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
+    width="48%"
+    alt="Prakhar Pandey Top Languages"
+  />
+</p>
 
 ---
-
 
 <!-- ==================== GITHUB ACTIVITY ==================== -->
 
@@ -151,87 +116,66 @@ I'm a Computer Science & Engineering student passionate about building
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Prakhar1-8&theme=tokyo-night"
+    src="./assets/activity.svg"
     width="95%"
-    alt="Prakhar Pandey GitHub Activity Graph"
+    alt="Prakhar Pandey GitHub Activity"
   />
 </p>
 
 ---
 
-<!-- ===================================================== -->
-<!--                    ACHIEVEMENTS                        -->
-<!-- ===================================================== -->
+<!-- ==================== ACHIEVEMENTS ==================== -->
 
 ## 🏆 Achievements
 
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-🏆<br>
-<b>Winner — Hackdiwas Hackathon</b>
-</td>
-
-<td align="center">
-🏆<br>
-<b>Winner — Udaan Sports Fest</b>
-</td>
-
-<td align="center">
-🥇<br>
-<b>Kho-Kho — Zonal Level 2024</b>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-🚀<br>
-<b>Organizer — uHack 4.0</b>
-</td>
-
-<td align="center">
-👥<br>
-<b>Organizer — NSS 2026</b>
-</td>
-
-<td align="center">
-💼<br>
-<b>Technical Head — E-Cell, UIT</b>
-</td>
-
-</tr>
+<table align="center">
+  <tr>
+    <td align="center">
+      🏆<br>
+      <b>Winner — Hackdiwas Hackathon</b>
+    </td>
+    <td align="center">
+      🏆<br>
+      <b>Winner — Udaan Sports Fest</b>
+    </td>
+    <td align="center">
+      🥇<br>
+      <b>Kho-Kho — Zonal Level 2024</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🚀<br>
+      <b>Organizer — uHack 4.0</b>
+    </td>
+    <td align="center">
+      👥<br>
+      <b>Organizer — NSS 2026</b>
+    </td>
+    <td align="center">
+      💼<br>
+      <b>Technical Head — E-Cell, UIT</b>
+    </td>
+  </tr>
 </table>
 
-</div>
+---
+
+<!-- ==================== GITHUB TROPHIES ==================== -->
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="./assets/trophies.svg"
+    width="95%"
+    alt="Prakhar Pandey GitHub Trophies"
+  />
+</p>
 
 ---
 
-<!-- ===================================================== -->
-<!--                  GITHUB TROPHIES                      -->
-<!-- ===================================================== -->
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=Prakhar1-8&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
-  width="98%"
-  alt="GitHub Trophies"
-/>
-
-</div>
-
----
-
-<!-- ===================================================== -->
-<!--                  CODING PROFILES                      -->
-<!-- ===================================================== -->
+<!-- ==================== CODING PROFILES ==================== -->
 
 ## 📌 Coding Profiles
 
@@ -239,18 +183,16 @@ I'm a Computer Science & Engineering student passionate about building
 
 <a href="https://leetcode.com/u/Pandey_18/" target="_blank">
   <img
-    src="https://img.shields.io/badge/LeetCode-Pandey__18-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
-    height="35"
+    src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"
     alt="LeetCode"
   />
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.geeksforgeeks.org/profile/pandey25" target="_blank">
   <img
-    src="https://img.shields.io/badge/GeeksforGeeks-pandey25-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
-    height="35"
+    src="https://img.shields.io/badge/GeeksforGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"
     alt="GeeksforGeeks"
   />
 </a>
@@ -259,9 +201,7 @@ I'm a Computer Science & Engineering student passionate about building
 
 ---
 
-<!-- ===================================================== -->
-<!--             EXPERIENCE & LEADERSHIP                   -->
-<!-- ===================================================== -->
+<!-- ==================== EXPERIENCE ==================== -->
 
 ## 💼 Experience & Leadership
 
@@ -290,9 +230,7 @@ I'm a Computer Science & Engineering student passionate about building
 
 ---
 
-<!-- ===================================================== -->
-<!--                CURRENTLY WORKING ON                    -->
-<!-- ===================================================== -->
+<!-- ==================== CURRENT PROJECT ==================== -->
 
 ## 🚀 Currently Working On
 
@@ -311,23 +249,17 @@ An AI-powered traffic management platform focused on:
 `Python` · `YOLOv8` · `OpenCV` · `FastAPI` · `Node.js` · `React` · `PostgreSQL`
 
 <p align="center">
-
-<a href="https://github.com/Prakhar1-8/Smart-Traffic-/tree/v2">
-
-<img
-  src="https://img.shields.io/badge/View%20Project-0D1117?style=for-the-badge&logo=github&logoColor=white"
-  alt="View Project"
-/>
-
-</a>
-
+  <a href="https://github.com/Prakhar1-8/Smart-Traffic-/tree/v2">
+    <img
+      src="https://img.shields.io/badge/View%20Project-0D1117?style=for-the-badge&logo=github&logoColor=white"
+      alt="View Project"
+    />
+  </a>
 </p>
 
 ---
 
-<!-- ===================================================== -->
-<!--                    CURRENT FOCUS                      -->
-<!-- ===================================================== -->
+<!-- ==================== CURRENT FOCUS ==================== -->
 
 ## 🎯 Current Focus
 
@@ -335,121 +267,135 @@ An AI-powered traffic management platform focused on:
 
 <img
   src="https://img.shields.io/badge/Full--Stack%20Development-Advanced-36BCF7?style=for-the-badge"
-  alt="Full Stack Development"
 />
 
 <img
   src="https://img.shields.io/badge/AI%20%2F%20Computer%20Vision-Intermediate-36BCF7?style=for-the-badge"
-  alt="AI Computer Vision"
 />
 
 <img
   src="https://img.shields.io/badge/DSA-Intermediate-36BCF7?style=for-the-badge"
-  alt="DSA"
 />
 
 <img
   src="https://img.shields.io/badge/System%20Design-Learning-36BCF7?style=for-the-badge"
-  alt="System Design"
 />
 
 </p>
 
 ---
 
-<!-- ===================================================== -->
-<!--                    OPEN TO & CONTACT                   -->
-<!-- ===================================================== -->
+<!-- ==================== CONTACT ==================== -->
 
 ## 📫 Open to & Contact
 
-<div align="center">
+<p align="center">
+  <b>Open to Software Development, Full-Stack, AI/ML and Technical opportunities</b>
+</p>
 
-<b>
-Open to Software Development, Full-Stack, AI/ML and Technical opportunities
-</b>
+<br>
 
-<br><br>
+<p align="center">
 
 <a href="https://github.com/Prakhar1-8" target="_blank">
   <img
-    src="https://img.shields.io/badge/GitHub-Prakhar1--8-181717?style=for-the-badge&logo=github&logoColor=white"
-    height="36"
+    src="https://skillicons.dev/icons?i=github"
+    width="48"
     alt="GitHub"
   />
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/prakhar45" target="_blank">
   <img
-    src="https://img.shields.io/badge/LinkedIn-Prakhar%20Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    height="36"
+    src="https://skillicons.dev/icons?i=linkedin"
+    width="48"
     alt="LinkedIn"
   />
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:pandeyprakhar072@gmail.com">
   <img
-    src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    height="36"
-    alt="Email"
+    src="https://skillicons.dev/icons?i=gmail"
+    width="48"
+    alt="Gmail"
   />
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://instagram.com/rai_prakhar_18" target="_blank">
   <img
-    src="https://img.shields.io/badge/Instagram-rai__prakhar__18-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    height="36"
+    src="https://skillicons.dev/icons?i=instagram"
+    width="48"
     alt="Instagram"
   />
 </a>
 
-<br><br>
+</p>
 
-📍 <b>Prayagraj, Uttar Pradesh, India</b>
-&nbsp;&nbsp; • &nbsp;&nbsp;
-🚀 <b>Open to Relocation</b>
+<p align="center">
 
-</div>
+<a href="https://github.com/Prakhar1-8">
+  <img
+    src="https://img.shields.io/badge/GitHub-Prakhar1--8-0D1117?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+<a href="https://linkedin.com/in/prakhar45">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Prakhar%20Pandey-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="mailto:pandeyprakhar072@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-Contact%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"
+    alt="Email"
+  />
+</a>
+
+<a href="https://instagram.com/rai_prakhar_18">
+  <img
+    src="https://img.shields.io/badge/Instagram-rai__prakhar__18-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"
+    alt="Instagram"
+  />
+</a>
+
+</p>
+
+<p align="center">
+  📍 <b>Prayagraj, Uttar Pradesh, India</b>
+  &nbsp;&nbsp; • &nbsp;&nbsp;
+  🚀 <b>Open to Relocation</b>
+</p>
 
 ---
 
-<!-- ===================================================== -->
-<!--                  DEVELOPER MINDSET                    -->
-<!-- ===================================================== -->
+<!-- ==================== DEVELOPER MINDSET ==================== -->
 
 ## ⚡ Developer Mindset
 
-<div align="center">
+<p align="center">
+  <i>"Build. Learn. Improve. Repeat."</i>
+</p>
 
-<i>"Build. Learn. Improve. Repeat."</i>
-
-<br><br>
-
-I don't just write code — I build intelligent systems that solve real-world problems.
-
-</div>
+<p align="center">
+  I don't just write code — I build intelligent systems that solve real-world problems.
+</p>
 
 ---
 
-<!-- ===================================================== -->
-<!--                       FOOTER                          -->
-<!-- ===================================================== -->
+<!-- ==================== FOOTER ==================== -->
 
-<div align="center">
-
-<img
-  src="https://komarev.com/ghpvc/?username=Prakhar1-8&label=Thanks%20for%20visiting&color=36BCF7&style=flat-square"
-  alt="Thanks for visiting"
-/>
-
-<br><br>
-
-<b>Thanks for visiting my profile! 🚀</b>
-
-</div>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Prakhar1-8&label=Thanks%20for%20visiting&color=36BCF7&style=flat-square"
+    alt="Thanks for visiting"
+  />
+</p>
