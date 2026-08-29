@@ -1,0 +1,206 @@
+name: Generate GitHub Activity SVG
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate activity.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          USERNAME: Prakhar1-8
+        run: |
+          python3 <<'PY'
+          import os
+          import json
+          import urllib.request
+          import datetime
+
+          token = os.environ["GITHUB_TOKEN"]
+          username = os.environ["USERNAME"]
+
+          query = """
+          query($login: String!) {
+            user(login: $login) {
+              contributionsCollection {
+                contributionCalendar {
+                  totalContributions
+                  weeks {
+                    contributionDays {
+                      contributionCount
+                      date
+                    }
+                  }
+                }
+              }
+            }
+          }
+          """
+
+          payload = json.dumps({
+              "query": query,
+              "variables": {
+                  "login": username
+              }
+          }).encode()
+
+          request = urllib.request.Request(
+              "https://api.github.com/graphql",
+              data=payload,
+              headers={
+                  "Authorization": f"Bearer {token}",
+                  "Content-Type": "application/json",
+                  "User-Agent": "github-profile-activity"
+              }
+          )
+
+          with urllib.request.urlopen(request) as response:
+              data = json.loads(response.read().decode())
+
+          if "errors" in data:
+              raise RuntimeError(json.dumps(data["errors"], indent=2))
+
+          calendar = data["data"]["user"]["contributionsCollection"]["contributionCalendar"]
+
+          weeks = calendar["weeks"]
+          total = calendar["totalContributions"]
+
+          cells = []
+
+          for week_index, week in enumerate(weeks):
+              for day_index, day in enumerate(week["contributionDays"]):
+                  count = day["contributionCount"]
+                  date = day["date"]
+
+                  if count == 0:
+                      level = 0
+                  elif count <= 2:
+                      level = 1
+                  elif count <= 5:
+                      level = 2
+                  elif count <= 9:
+                      level = 3
+                  else:
+                      level = 4
+
+                  cells.append((week_index, day_index, count, date, level))
+
+          width = 900
+          height = 230
+
+          svg = f'''<svg xmlns="http://www.w3.org/2000/svg"
+              width="{width}"
+              height="{height}"
+              viewBox="0 0 {width} {height}">
+
+            <rect width="100%" height="100%" rx="12"
+                  fill="#0d1117"/>
+
+            <text x="25" y="35"
+                  fill="#f0f6fc"
+                  font-size="20"
+                  font-family="Arial, sans-serif"
+                  font-weight="bold">
+              Prakhar Pandey — GitHub Activity
+            </text>
+
+            <text x="25" y="60"
+                  fill="#8b949e"
+                  font-size="14"
+                  font-family="Arial, sans-serif">
+              {total} contributions in the last year
+            </text>
+          '''
+
+          colors = [
+              "#161b22",
+              "#0e4429",
+              "#006d32",
+              "#26a641",
+              "#39d353"
+          ]
+
+          start_x = 25
+          start_y = 80
+
+          cell = 13
+          gap = 3
+
+          for week_index, day_index, count, date, level in cells:
+              x = start_x + week_index * (cell + gap)
+              y = start_y + day_index * (cell + gap)
+
+              svg += f'''
+              <rect
+                x="{x}"
+                y="{y}"
+                width="{cell}"
+                height="{cell}"
+                rx="2"
+                fill="{colors[level]}">
+                <title>{date}: {count} contributions</title>
+              </rect>
+              '''
+
+          svg += '''
+            <text x="25" y="195"
+                  fill="#8b949e"
+                  font-size="12"
+                  font-family="Arial, sans-serif">
+              Less
+            </text>
+          '''
+
+          for i, color in enumerate(colors):
+              x = 60 + i * 18
+
+              svg += f'''
+              <rect
+                x="{x}"
+                y="185"
+                width="13"
+                height="13"
+                rx="2"
+                fill="{color}"/>
+              '''
+
+          svg += '''
+            <text x="160" y="195"
+                  fill="#8b949e"
+                  font-size="12"
+                  font-family="Arial, sans-serif">
+              More
+            </text>
+
+          </svg>
+          '''
+
+          os.makedirs("assets", exist_ok=True)
+
+          with open("assets/activity.svg", "w", encoding="utf-8") as f:
+              f.write(svg)
+
+          print("activity.svg generated successfully")
+          PY
+
+      - name: Commit activity.svg
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/activity.svg
+
+          git commit -m "Update GitHub activity SVG" || exit 0
+
+          git push
