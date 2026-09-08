@@ -110,6 +110,32 @@ I'm a Computer Science & Engineering student passionate about building
 
 ---
 
+<!-- ==================== DEVELOPER STATS ==================== -->
+
+## 📈 Developer Stats
+
+<p align="center">
+
+<a href="https://github.com/Prakhar1-8">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Prakhar1-8&theme=github-dark-blue&hide_border=true"
+    width="48%"
+    alt="GitHub Contribution Streak"
+  />
+</a>
+
+<a href="https://github.com/Prakhar1-8">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Prakhar1-8&show_icons=true&theme=github_dark&hide_border=true"
+    width="48%"
+    alt="GitHub Statistics"
+  />
+</a>
+
+</p>
+
+---
+
 <!-- ==================== GITHUB ACTIVITY ==================== -->
 
 ## 📈 GitHub Activity
@@ -143,6 +169,7 @@ I'm a Computer Science & Engineering student passionate about building
       <b>Kho-Kho — Zonal Level 2024</b>
     </td>
   </tr>
+
   <tr>
     <td align="center">
       🚀<br>
@@ -201,6 +228,74 @@ I'm a Computer Science & Engineering student passionate about building
 
 ---
 
+<!-- ==================== DSA PROGRESS ==================== -->
+
+## 🧠 DSA & Problem Solving
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🟢%20EASY-Building%20Strong%20Basics-36BCF7?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🟡%20MEDIUM-Problem%20Solving-36BCF7?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🔴%20HARD-Advanced%20DSA-36BCF7?style=for-the-badge" />
+
+</p>
+
+<table align="center">
+<tr>
+<td width="33%" align="center">
+
+### 🟢 Easy
+
+`Arrays`  
+`Strings`  
+`Loops`  
+`Sorting`  
+`Searching`
+
+</td>
+
+<td width="33%" align="center">
+
+### 🟡 Medium
+
+`Recursion`  
+`Linked List`  
+`Stacks & Queues`  
+`Trees`  
+`Graphs`
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔴 Hard
+
+`Dynamic Programming`  
+`Graph Algorithms`  
+`Greedy`  
+`Backtracking`  
+`Optimization`
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Pandey_18/">
+<img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/pandey25">
+<img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+</a>
+
+</p>
+
+---
+
 <!-- ==================== EXPERIENCE ==================== -->
 
 ## 💼 Experience & Leadership
@@ -252,10 +347,98 @@ An AI-powered traffic management platform focused on:
   <a href="https://github.com/Prakhar1-8/Smart-Traffic-/tree/v2">
     <img
       src="https://img.shields.io/badge/View%20Project-0D1117?style=for-the-badge&logo=github&logoColor=white"
-      alt="View Project"
+      alt="View Smart Traffic Project"
     />
   </a>
 </p>
+
+---
+
+<!-- ==================== FEATURED PROJECTS ==================== -->
+
+## 🚀 Featured Projects
+
+<table align="center">
+
+  <tr>
+
+    <td width="50%" valign="top">
+
+### 🚦 Smart Traffic Management
+
+AI-powered traffic management system using Computer Vision.
+
+**Tech Stack**
+
+`Python` `YOLOv8` `OpenCV` `FastAPI`  
+`Node.js` `React` `PostgreSQL`
+
+<a href="https://github.com/Prakhar1-8/Smart-Traffic-/tree/v2">
+  <img
+    src="https://img.shields.io/badge/View%20Project-36BCF7?style=for-the-badge&logo=github&logoColor=white"
+    alt="Smart Traffic Project"
+  />
+</a>
+
+    </td>
+
+    <td width="50%" valign="top">
+
+### 🌦️ Weather WebApp
+
+Responsive weather application providing real-time weather information.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `API`
+
+<a href="https://github.com/Prakhar1-8/Weather_webApp">
+  <img
+    src="https://img.shields.io/badge/View%20Project-36BCF7?style=for-the-badge&logo=github&logoColor=white"
+    alt="Weather WebApp"
+  />
+</a>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td width="50%" valign="top">
+
+### 🤖 AI / Computer Vision
+
+Exploring intelligent systems using object detection and image processing.
+
+**Tech Stack**
+
+`Python` `YOLOv8` `OpenCV` `PyTorch`
+
+    </td>
+
+    <td width="50%" valign="top">
+
+### 💻 DSA-CPP
+
+Consistent practice of Data Structures & Algorithms.
+
+**Platforms**
+
+`LeetCode` `GeeksforGeeks` `C++`
+
+<a href="https://github.com/Prakhar1-8">
+  <img
+    src="https://img.shields.io/badge/View%20DSA-36BCF7?style=for-the-badge&logo=github&logoColor=white"
+    alt="DSA Repository"
+  />
+</a>
+
+    </td>
+
+  </tr>
+
+</table>
 
 ---
 
@@ -285,86 +468,136 @@ An AI-powered traffic management platform focused on:
 
 ---
 
+<!-- ==================== SKILLS ==================== -->
+
+## 🛠️ What I Work With
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+### 💻 Development
+
+`C++`  
+`Python`  
+`JavaScript`  
+`React`  
+`Next.js`  
+`HTML / CSS`
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖 AI / ML
+
+`YOLOv8`  
+`OpenCV`  
+`PyTorch`  
+`Machine Learning`  
+`Computer Vision`
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ Backend & Data
+
+`Node.js`  
+`Express.js`  
+`FastAPI`  
+`PostgreSQL`  
+`MongoDB`  
+`REST APIs`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ==================== GOALS ==================== -->
+
+## 🎯 Goals & Future Plans
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+
+### 💻
+**DSA**
+
+Strengthen problem solving and competitive programming
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+**Full-Stack**
+
+Build scalable and production-ready applications
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+**AI / ML**
+
+Build intelligent real-world systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎓
+**GATE 2027**
+
+Prepare consistently and achieve a strong score
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+
+**Code → Build → Learn → Improve → Repeat 🚀**
+
+</p>
+
+---
+
 <!-- ==================== CONTACT ==================== -->
 
 ## 📫 Open to & Contact
 
 <p align="center">
-  <b>Open to Software Development, Full-Stack, AI/ML and Technical opportunities</b>
-</p>
-
-<br>
-
-<p align="center">
-
-<a href="https://github.com/Prakhar1-8" target="_blank">
-  <img
-    src="https://skillicons.dev/icons?i=github"
-    width="48"
-    alt="GitHub"
-  />
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/prakhar45" target="_blank">
-  <img
-    src="https://skillicons.dev/icons?i=linkedin"
-    width="48"
-    alt="LinkedIn"
-  />
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:pandeyprakhar072@gmail.com">
-  <img
-    src="https://skillicons.dev/icons?i=gmail"
-    width="48"
-    alt="Gmail"
-  />
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://instagram.com/rai_prakhar_18" target="_blank">
-  <img
-    src="https://skillicons.dev/icons?i=instagram"
-    width="48"
-    alt="Instagram"
-  />
-</a>
-
+  <b>
+    Open to Software Development, Full-Stack, AI/ML and Technical opportunities
+  </b>
 </p>
 
 <p align="center">
 
 <a href="https://github.com/Prakhar1-8">
-  <img
-    src="https://img.shields.io/badge/GitHub-Prakhar1--8-0D1117?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
+<img src="https://img.shields.io/badge/GitHub-Prakhar1--8-0D1117?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://linkedin.com/in/prakhar45">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Prakhar%20Pandey-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
-    alt="LinkedIn"
-  />
+<img src="https://img.shields.io/badge/LinkedIn-Prakhar%20Pandey-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
 </a>
 
 <a href="mailto:pandeyprakhar072@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-Contact%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"
-    alt="Email"
-  />
+<img src="https://img.shields.io/badge/Email-Contact%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335">
 </a>
 
 <a href="https://instagram.com/rai_prakhar_18">
-  <img
-    src="https://img.shields.io/badge/Instagram-rai__prakhar__18-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"
-    alt="Instagram"
-  />
+<img src="https://img.shields.io/badge/Instagram-rai__prakhar__18-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F">
 </a>
 
 </p>
@@ -394,8 +627,14 @@ An AI-powered traffic management platform focused on:
 <!-- ==================== FOOTER ==================== -->
 
 <p align="center">
+
   <img
     src="https://komarev.com/ghpvc/?username=Prakhar1-8&label=Thanks%20for%20visiting&color=36BCF7&style=flat-square"
     alt="Thanks for visiting"
   />
+
+</p>
+
+<p align="center">
+  <b>⭐ If you find my projects useful, consider giving them a star!</b>
 </p>
